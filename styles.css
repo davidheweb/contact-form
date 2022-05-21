@@ -41,6 +41,10 @@ select {
   accent-color: rgb(32, 5, 63);
 }
 
+textarea {
+  resize: vertical;
+}
+
 input:focus,
 textarea:focus {
   background-color: rgb(219, 190, 253);
